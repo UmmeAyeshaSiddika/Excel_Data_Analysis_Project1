@@ -24,5 +24,10 @@ Before working with data, Data is checked by using sort and filter options to fi
 # Analyze
 Insights from the analyze:
 - Women do more shopping than men (~64%)
-- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states
+- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+- Adult age group (30~49 yrs) is contributing maximum (~50%)
+- Amazon, Flipkart and Myntra channels are contributing maximum (~80%)
+
+ # Final conclusion to improve store sales:
+ Target women of customers of age group (30-49 yrs) who are living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offer/coupon available on Amazon, Flipkart and Myntra channels.
 
